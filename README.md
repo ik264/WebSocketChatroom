@@ -4,6 +4,7 @@
 ```
 node server\server.js
 ```
+```
 open index.html
 
 ```
